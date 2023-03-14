@@ -15,7 +15,7 @@ Goal for the player:
 - Collect all (num of) (item) to get out of the hospital
 - To not die to the clown 
 
-Clown:
+Clown (Biggest Coding Challenge): 
 - Patrols around the whole map while the player looks for all (item)
 - Has a "field of vision" - does not go through walls but he will patrol hallways 
 - There is more than one clown 
